@@ -22,11 +22,11 @@ SonarQube currently provides the ability to back up and restore Quality Profiles
 #### Description
 Export Quality Profile from SonarQube to `workspace`.
 This operation has two options:
-1. Export all Quality Profiles that associated with specific project.
-       - This group of profiles includes:
-       - The profiles from the last scan of the projecy (appears on the left side of the project page, under the title "Quality Profiles").
-       - The profiles currently associated to the project (appears in project page -> Administration -> Quality Profiles, and includes only the profiles that correspond to the languages used by the project).
-       -  to use
+1. Export all Quality Profiles that associated with specific project.  
+       - This group of profiles includes:  
+       - The profiles from the last scan of the projecy (appears on the left side of the project page, under the title "Quality Profiles").  
+       - The profiles currently associated to the project (appears in project page -> Administration -> Quality Profiles, and includes only the profiles that correspond to the languages used by the project).  
+       -  to use  
 2. Export specip
 #### Arguments - option 1
 - `p1`
