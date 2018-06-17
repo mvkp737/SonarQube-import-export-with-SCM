@@ -13,5 +13,13 @@ SonarQube currently provides the ability to back up and restore Quality Profiles
 - *import* of Quality Profiles/Gates from Git to SonarQube.
 
 **Project structure:**
-- the folder `groovy-scripts` contains groovy scripts that use the existing SonarQube API to import/export profiles/gates.
-- the folders `jenkins_jobs` and `jenkinsfiles` contains the configuration of Jenkins, through which we integrated the export and import operations with GIT.
+- The folder `groovy-scripts` contains groovy scripts that use the existing SonarQube API to import/export profiles/gates.
+- The folders `jenkins_jobs` and `jenkinsfiles` contains the configuration of Jenkins, through which we integrated the export and import operations with GIT.
+
+## The groovy scripts
+### export
+#### export
+##### export
+###### export
+####### export
+
