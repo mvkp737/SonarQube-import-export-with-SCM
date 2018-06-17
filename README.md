@@ -19,7 +19,7 @@ SonarQube currently provides the ability to back up and restore Quality Profiles
 ## The groovy scripts
 
 ### Export Profile
-#### Description
+#### *Description*
 Export Quality Profile from SonarQube to the folder that the `workspace` parameter represents 
 This operation has two options:
 
@@ -32,10 +32,10 @@ This operation has two options:
 **Option 2:** Export specip Quality Profile, given the ptofile name and its correspond programming language.
 - To use this option, the parameters `profileName` and `language` must be passed, but not the parameter `projectKey`.  
 
-#### Arguments
+#### *Arguments*
 - `String server`:
 
-#### Usage
+#### *Usage*
 - In case you want to export quality profile that used by specific project (:
 
 
