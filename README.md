@@ -25,9 +25,10 @@ This operation has two options:
 1. Export all Quality Profiles that associated with specific project.  
    - This group of profiles includes:  
      - The profiles from the last scan of the projecy (appears on the left side of the project page, under the title "Quality Profiles").  
-     - The profiles currently associated to the project (appears in project page -> Administration -> Quality Profiles, and includes only the profiles that correspond to the languages used by the project).  
-   -  to use  
-2. Export specip
+     - The profiles currently associated to the project (appears in project page -> Administration -> Quality Profiles, and includes only the profiles that correspond to the programming languages used by the project).  
+   -  To use this option, the parameter "projectKey" must be passed, but not the parameters "language" and "profileName".  
+2. Export specip Quality Profile, given the ptofile name and its correspond programming language.
+   - To use this option, the parameters "language" and "profileName" must be passed, but not the parameter "projectKey".  
 #### Arguments - option 1
 - `p1`
 #### Usage
