@@ -20,7 +20,7 @@ SonarQube currently provides the ability to back up and restore Quality Profiles
 
 ### Export Profile
 #### Description
-Export Quality Profile from SonarQube to `workspace`.
+Export Quality Profile from SonarQube to `workspace`.  
 This operation has two options:
 1. Export all Quality Profiles that associated with specific project.  
    - This group of profiles includes:  
