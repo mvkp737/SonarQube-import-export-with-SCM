@@ -2,8 +2,9 @@
 Import / export SonarQube's quality profiles and gates with SCM
 
 ## Introduction
-SonarQube is an open source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells and security vulnerabilities on 20+ programming languages.
-SonarQube uses “Quality Profiles” and “Quality Gates” to analyze your project. Quality Profiles allows you to define the requirements from the project by defining sets of rules, and with Quality Gate you can define set of Boolean conditions based on measure thresholds against which projects are measured.
+SonarQube is an open source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells and security vulnerabilities on 20+ programming languages.  
+SonarQube uses “Quality Profiles” and “Quality Gates” to analyze your project.  
+Quality Profiles allows you to define the requirements from the project by defining sets of rules, and with Quality Gate you can define set of Boolean conditions based on measure thresholds against which projects are measured.
 
 SonarQube currently provides the ability to back up and restore Quality Profiles but not of Quality Gates. In addition, this option does not support integration with SCM tools (like git).
 
